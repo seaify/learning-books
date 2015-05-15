@@ -5,7 +5,7 @@
         
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=11; IE=10; IE=9; IE=8; IE=7; IE=EDGE" />
-        <title>2.times/3.years.ago原理 | Introduction</title>
+        <title>3.times/2.years.ago原理 | Introduction</title>
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="generator" content="GitBook 2.0.1">
@@ -36,7 +36,7 @@
     
 
         
-    <div class="book" data-level="7.1" data-basepath=".." data-revision="Fri May 15 2015 17:09:13 GMT+0800 (CST)">
+    <div class="book" data-level="7.1" data-basepath=".." data-revision="Fri May 15 2015 18:08:03 GMT+0800 (CST)">
     
 
 <div class="book-summary">
@@ -176,7 +176,7 @@
                         
                             <b>7.1.</b>
                         
-                        2.times/3.years.ago原理
+                        3.times/2.years.ago原理
                     </a>
                 
             
@@ -336,7 +336,74 @@
                 
                     <section class="normal" id="section-">
                     
-                        
+                        <h1 id="%E7%AE%80%E4%BB%8B">&#x7B80;&#x4ECB;</h1>
+<p>&#x89C1;&#x5230;ruby&#x4EE3;&#x7801;&#x4E2D;&#x7684;3.times, 2.years.ago&#xFF0C;&#x89C9;&#x5F97;&#x5F88;&#x795E;&#x5947;&#xFF0C;&#x53C8;&#x771F;&#x7684;&#x5F88;&#x65B9;&#x4FBF;</p>
+<h2 id="2-years-ago">2.years.ago</h2>
+<p>&#x76F4;&#x63A5;&#x7528;ruby&#x6267;&#x884C;&#xFF0C;&#x4F1A;&#x51FA;&#x9519;&#xFF0C; &#x800C;rails console&#x4E2D;&#x80FD;&#x6B63;&#x5E38;&#x8FD0;&#x884C;&#xFF0C;&#x8BF4;&#x660E;&#x8FD9;&#x4E2A;&#x6709;&#x8DA3;&#x7684;&#x529F;&#x80FD;&#x662F;&#x5185;&#x7F6E;&#x5728;rails&#x91CC;&#x7684;</p>
+<pre><code class="lang-ruby">puts <span class="hljs-number">2</span>.years.ago
+</code></pre>
+<pre><code class="lang-ruby">chuck<span class="hljs-variable">@chucks</span>-<span class="hljs-constant">MacBook</span>-<span class="hljs-constant">Pro</span><span class="hljs-symbol">:~/seaify/ipool/proxy-backend</span>(master|&#x271A;<span class="hljs-number">2</span>&#x2026;) % rails  console
+<span class="hljs-constant">Loading</span> development environment (<span class="hljs-constant">Rails</span> <span class="hljs-number">4.2</span>.<span class="hljs-number">0</span>)
+<span class="hljs-prompt">irb(main):001:0&gt;</span> <span class="hljs-number">3</span>.years.ago
+<span class="hljs-status">=&gt;</span> <span class="hljs-constant">Tue</span>, <span class="hljs-number">15</span> <span class="hljs-constant">May</span> <span class="hljs-number">2012</span> 09<span class="hljs-symbol">:</span><span class="hljs-number">12</span><span class="hljs-symbol">:</span><span class="hljs-number">23</span> <span class="hljs-constant">UTC</span> +<span class="hljs-number">00</span><span class="hljs-symbol">:</span><span class="hljs-number">00</span>
+</code></pre>
+<p>&#x5728;Agile Web Development with Rails 4 &#x8FD9;&#x672C;&#x4E66;&#x7B2C;406&#x9875;&#x4E2D;&#x4ECB;&#x7ECD;&#x5230;&#x4E86;&#x4E00;&#x4E9B;rails&#x4E2D;&#x5185;&#x7F6E;&#x7684;&#x5E93;&#xFF0C;&#x5B58;&#x653E;&#x5728;activesupport/lib/active_support/core_ext&#x8FD9;&#x4E2A;&#x76EE;&#x5F55;&#xFF0C;&#x8FD9;&#x4E9B;&#x5E93;&#x4E5F;&#x80FD;&#x88AB;&#x975E;rails&#x7A0B;&#x5E8F;&#x4F7F;&#x7528;&#x3002;</p>
+<p>&#x5728;<a href="https://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/integer/time.rb" target="_blank">integer</a>&#x4E2D;: </p>
+<pre><code class="lang-ruby"><span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Integer</span></span>
+  <span class="hljs-comment"># Enables the use of time calculations and declarations, like &lt;tt&gt;45.minutes +</span>
+  <span class="hljs-comment"># 2.hours + 4.years&lt;/tt&gt;.</span>
+  <span class="hljs-comment">#</span>
+  <span class="hljs-comment"># These methods use Time#advance for precise date calculations when using</span>
+  <span class="hljs-comment"># &lt;tt&gt;from_now&lt;/tt&gt;, +ago+, etc. as well as adding or subtracting their</span>
+  <span class="hljs-comment"># results from a Time object.</span>
+  <span class="hljs-comment">#</span>
+  <span class="hljs-comment">#   # equivalent to Time.now.advance(months: 1)</span>
+  <span class="hljs-comment">#   1.month.from_now</span>
+  <span class="hljs-comment">#</span>
+  <span class="hljs-comment">#   # equivalent to Time.now.advance(years: 2)</span>
+  <span class="hljs-comment">#   2.years.from_now</span>
+  <span class="hljs-comment">#</span>
+  <span class="hljs-comment">#   # equivalent to Time.now.advance(months: 4, years: 5)</span>
+  <span class="hljs-comment">#   (4.months + 5.years).from_now</span>
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>months
+    <span class="hljs-constant">ActiveSupport::Duration</span>.new(<span class="hljs-keyword">self</span> * <span class="hljs-number">30</span>.days, [[<span class="hljs-symbol">:months</span>, <span class="hljs-keyword">self</span>]])
+  <span class="hljs-keyword">end</span>
+  <span class="hljs-keyword">alias</span> <span class="hljs-symbol">:month</span> <span class="hljs-symbol">:months</span>
+
+  <span class="hljs-function"><span class="hljs-keyword">def</span> </span>years
+    <span class="hljs-constant">ActiveSupport::Duration</span>.new(<span class="hljs-keyword">self</span> * <span class="hljs-number">365.25</span>.days, [[<span class="hljs-symbol">:years</span>, <span class="hljs-keyword">self</span>]])
+  <span class="hljs-keyword">end</span>
+  <span class="hljs-keyword">alias</span> <span class="hljs-symbol">:year</span> <span class="hljs-symbol">:years</span>
+<span class="hljs-keyword">end</span>
+</code></pre>
+<p>&#x6240;&#x4EE5;2.years&#x5B9E;&#x9645;&#x8FD4;&#x56DE;&#x4E86;&#x4E00;&#x4E2A;ActiveSupport::Duration&#x5BF9;&#x8C61;&#xFF0C;&#x800C;&#x5728;<a href="https://github.com/rails/rails/blob/master/activesupport/lib/active_support/duration.rb" target="_blank">duration</a>&#x4E2D;: </p>
+<pre><code class="lang-ruby">    <span class="hljs-function"><span class="hljs-keyword">def</span> </span>ago(time = <span class="hljs-constant">::Time</span>.current)<span class="hljs-comment">#&#x521D;&#x59CB;&#x503C;&#x9ED8;&#x8BA4;&#x662F;&#x7CFB;&#x7EDF;&#x5F53;&#x524D;&#x65F6;&#x95F4;</span>
+      <span class="hljs-comment">#-1, &#x76F8;&#x5F53;&#x4E8E;&#x662F;&#x786E;&#x5B9A;&#x65B9;&#x5411;&#xFF0C;&#x662F;&#x52A0;&#xFF0C;&#x8FD8;&#x662F;&#x51CF;</span>
+      sum(-<span class="hljs-number">1</span>, time)
+    <span class="hljs-keyword">end</span>
+
+    <span class="hljs-function"><span class="hljs-keyword">def</span> </span>sum(sign, time = <span class="hljs-constant">::Time</span>.current) <span class="hljs-comment">#:nodoc:</span>
+        <span class="hljs-comment">#&#x63D0;&#x53D6;&#x51FA;type&#xFF0C;number&#xFF0C;sign&#x6570;&#x636E;&#xFF0C;&#x6700;&#x7EC8;&#x8FDB;&#x884C;&#x771F;&#x5B9E;&#x7684;&#x8BA1;&#x7B97;</span>
+        parts.inject(time) <span class="hljs-keyword">do</span> |t,(type,number)|
+          <span class="hljs-keyword">if</span> t.acts_like?(<span class="hljs-symbol">:time</span>) || t.acts_like?(<span class="hljs-symbol">:date</span>)
+            <span class="hljs-keyword">if</span> type == <span class="hljs-symbol">:seconds</span>
+              t.since(sign * number)
+            <span class="hljs-keyword">else</span>
+              t.advance(type =&gt; sign * number)
+            <span class="hljs-keyword">end</span>
+          <span class="hljs-keyword">else</span>
+            raise <span class="hljs-constant">::ArgumentError</span>, <span class="hljs-string">&quot;expected a time or date, got <span class="hljs-subst">#{time.inspect}</span>&quot;</span>
+          <span class="hljs-keyword">end</span>
+        <span class="hljs-keyword">end</span>
+      <span class="hljs-keyword">end</span>
+</code></pre>
+<h2 id="3-times">3.times</h2>
+<p>n.times &#x8FD9;&#x4E2A;&#x529F;&#x80FD;ruby&#x5C31;&#x80FD;&#x6B63;&#x5E38;&#x8FD0;&#x884C;</p>
+<pre><code class="lang-ruby"><span class="hljs-number">3</span>.times <span class="hljs-keyword">do</span>
+    puts <span class="hljs-string">&quot;hello&quot;</span>
+<span class="hljs-keyword">end</span>
+</code></pre>
+
                     
                     </section>
                 

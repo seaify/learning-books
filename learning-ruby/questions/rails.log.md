@@ -107,4 +107,4 @@ ActiveRecord::LogSubscriber.attach_to :active_record
 [lograge](https://github.com/roidrage/lograge), 方便的允许你去修改rails默认的logging输出, 如改成单行，方便grep，方便zabbix等收集信息  
 [how-to-log-specific-request-details-to-rails-server-logs](http://stackoverflow.com/questions/11267540/how-to-log-specific-request-details-to-rails-server-logs), stackoverflow上，关于怎样输出更多信息，如useragent等的信息到日志中的问题  
 [on-notifications-logsubscribers-and-bringing-sanity-to-rails-logging](http://www.paperplanes.de/2012/3/14/on-notifications-logsubscribers-and-bringing-sanity-to-rails-logging.html), 介绍了rails的logger机制  
-[LogSubscriber](http://api.rubyonrails.org/classes/ActiveSupport/LogSubscriber.html)
+[LogSubscriber](http://api.rubyonrails.org/classes/ActiveSupport/LogSubscriber.html)LogSubscriber的api文档
