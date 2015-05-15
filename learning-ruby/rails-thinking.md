@@ -43,6 +43,12 @@ Completed 200 OK in 60ms (Views: 14.8ms | ActiveRecord: 20.1ms)
 
 ## 8. 良好的目录管理，规范清晰，约束多，其实是好事
 
+## 9. 对于model, 支持很好的参数验证
+
+## 10. 对于一个gem包或model等处定义的class等，通过在gemfile中或config.ru中定义后，可以在任意地方直接使用。节省大量nodejs中的require。
+
+## 11. 能很方便的创建prompt, warning, notify, 验证失败的信息
+
 ## 惯例配置与restful by windog
 
 

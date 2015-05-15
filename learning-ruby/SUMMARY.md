@@ -8,3 +8,8 @@
     * [rails开发原则](rails-rules.md)
     * [rails思考](rails-thinking.md)
 * [常用tips](code.md)
+* [问题篇](questions/README.md)
+	* [2.times/3.years.ago原理](questions/times_years.md)
+	* [maybe monad原理](questions/maybe.md)
+	* [rails http请求日志](questions/rails.log.md)
+	* [rails 启动过程](questions/what-happen-when-rails-start.md)

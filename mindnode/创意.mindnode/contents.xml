@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>07D4144D-F100-48BC-8852-7C1B7096EB48</string>
+				<string>8594A9A6-A52F-4E21-8663-A39CF9A56A0C</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F9D3A497-702B-45A5-A00B-6E1903421F60</string>
+				<string>7566104E-138D-4C60-A9FE-32E5F08F9E9C</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -36,11 +36,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>B01ADAB7-B97C-4942-9820-5BE3A8A05513</string>
+				<string>E5A0B78B-5ACE-44E1-8320-6A1013E52B05</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>2D700027-0543-4B98-9E2D-2C42696B522B</string>
+				<string>B922B7AB-AC06-4CC0-86E3-EA25BE5E7ED0</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -48,7 +48,61 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-59.709, 83.75}</string>
+				<string>{269.791, 153.25}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>A009BF35-0B34-4039-9B78-234A084FE52B</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>B922B7AB-AC06-4CC0-86E3-EA25BE5E7ED0</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{91.25, -117.75}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>9CAEF4D6-909C-4D5F-ABEA-E44ACCA7C22D</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>B922B7AB-AC06-4CC0-86E3-EA25BE5E7ED0</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{258.75, -23.25}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>273F9BBE-A3C0-4CE4-9D0D-0DB770D525EF</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>B922B7AB-AC06-4CC0-86E3-EA25BE5E7ED0</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{-13.75, 137.75}</string>
 			</dict>
 		</array>
 		<key>color</key>
@@ -67,9 +121,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{437, -290}</string>
+				<string>{331, -307}</string>
 				<key>nodeID</key>
-				<string>F9D3A497-702B-45A5-A00B-6E1903421F60</string>
+				<string>7566104E-138D-4C60-A9FE-32E5F08F9E9C</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -89,7 +143,7 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 \'b4\'b4\'d2\'e2}</string>
@@ -107,9 +161,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{543, -484.00390625}</string>
+				<string>{437, -501.00390625}</string>
 				<key>nodeID</key>
-				<string>07D4144D-F100-48BC-8852-7C1B7096EB48</string>
+				<string>8594A9A6-A52F-4E21-8663-A39CF9A56A0C</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -123,33 +177,24 @@
 					<key>constrainedWidth</key>
 					<integer>300</integer>
 					<key>htmlText</key>
-					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;写一个插件，自动将一些重要的资源，爬虫曾经抓取过的资源，生成种子连接，放在百度云或者迅雷上，速度至少要在&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;2mb&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;以上，并且在&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;chrome&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;里面提供一个方便的入口，供大家上传新的&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;url link&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;，但是要谨慎防止有人恶意，上传流氓软件。命令行下，使用&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;wget, curl&lt;/span&gt;&lt;span style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;的问题怎么解决？&lt;/span&gt;&lt;/p&gt;</string>
+					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;写一个插件，自动将一些重要的资源，爬虫曾经抓取过的资源，生成种子连接，放在百度云或者迅雷上，速度至少要在&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;2mb&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;以上，并且在&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;chrome&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;里面提供一个方便的入口，供大家上传新的&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;url link&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;，但是要谨慎防止有人恶意，上传流氓软件。命令行下，使用&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;wget, curl&lt;/span&gt;&lt;span style='color: rgba(113, 167, 188, 1.000000); font: 15px "Songti SC"; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;的问题怎么解决？&lt;/span&gt;&lt;/p&gt;</string>
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;\f1\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+{\colortbl;\red255\green255\blue255;\red113\green167\blue188;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs30 \cf2 \expnd0\expndtw0\kerning0
-\'d0\'b4\'d2\'bb\'b8\'f6\'b2\'e5\'bc\'fe\'a3\'ac\'d7\'d4\'b6\'af\'bd\'ab\'d2\'bb\'d0\'a9\'d6\'d8\'d2\'aa\'b5\'c4\'d7\'ca\'d4\'b4\'a3\'ac\'c5\'c0\'b3\'e6\'d4\'f8\'be\'ad\'d7\'a5\'c8\'a1\'b9\'fd\'b5\'c4\'d7\'ca\'d4\'b4\'a3\'ac\'c9\'fa\'b3\'c9\'d6\'d6\'d7\'d3\'c1\'ac\'bd\'d3\'a3\'ac\'b7\'c5\'d4\'da\'b0\'d9\'b6\'c8\'d4\'c6\'bb\'f2\'d5\'df\'d1\'b8\'c0\'d7\'c9\'cf\'a3\'ac\'cb\'d9\'b6\'c8\'d6\'c1\'c9\'d9\'d2\'aa\'d4\'da
-\f1 \expnd0\expndtw0\kerning0
-2mb
-\f0 \expnd0\expndtw0\kerning0
-\'d2\'d4\'c9\'cf\'a3\'ac\'b2\'a2\'c7\'d2\'d4\'da
-\f1 \expnd0\expndtw0\kerning0
-chrome
-\f0 \expnd0\expndtw0\kerning0
-\'c0\'ef\'c3\'e6\'cc\'e1\'b9\'a9\'d2\'bb\'b8\'f6\'b7\'bd\'b1\'e3\'b5\'c4\'c8\'eb\'bf\'da\'a3\'ac\'b9\'a9\'b4\'f3\'bc\'d2\'c9\'cf\'b4\'ab\'d0\'c2\'b5\'c4
-\f1 \expnd0\expndtw0\kerning0
-url link
-\f0 \expnd0\expndtw0\kerning0
-\'a3\'ac\'b5\'ab\'ca\'c7\'d2\'aa\'bd\'f7\'c9\'f7\'b7\'c0\'d6\'b9\'d3\'d0\'c8\'cb\'b6\'f1\'d2\'e2\'a3\'ac\'c9\'cf\'b4\'ab\'c1\'f7\'c3\'a5\'c8\'ed\'bc\'fe\'a1\'a3\'c3\'fc\'c1\'ee\'d0\'d0\'cf\'c2\'a3\'ac\'ca\'b9\'d3\'c3
-\f1 \expnd0\expndtw0\kerning0
-wget, curl
-\f0 \expnd0\expndtw0\kerning0
-\'b5\'c4\'ce\'ca\'cc\'e2\'d4\'f5\'c3\'b4\'bd\'e2\'be\'f6\'a3\'bf}</string>
+\f0\fs30 \cf2 \'d0\'b4\'d2\'bb\'b8\'f6\'b2\'e5\'bc\'fe\'a3\'ac\'d7\'d4\'b6\'af\'bd\'ab\'d2\'bb\'d0\'a9\'d6\'d8\'d2\'aa\'b5\'c4\'d7\'ca\'d4\'b4\'a3\'ac\'c5\'c0\'b3\'e6\'d4\'f8\'be\'ad\'d7\'a5\'c8\'a1\'b9\'fd\'b5\'c4\'d7\'ca\'d4\'b4\'a3\'ac\'c9\'fa\'b3\'c9\'d6\'d6\'d7\'d3\'c1\'ac\'bd\'d3\'a3\'ac\'b7\'c5\'d4\'da\'b0\'d9\'b6\'c8\'d4\'c6\'bb\'f2\'d5\'df\'d1\'b8\'c0\'d7\'c9\'cf\'a3\'ac\'cb\'d9\'b6\'c8\'d6\'c1\'c9\'d9\'d2\'aa\'d4\'da
+\f1 2mb
+\f0 \'d2\'d4\'c9\'cf\'a3\'ac\'b2\'a2\'c7\'d2\'d4\'da
+\f1 chrome
+\f0 \'c0\'ef\'c3\'e6\'cc\'e1\'b9\'a9\'d2\'bb\'b8\'f6\'b7\'bd\'b1\'e3\'b5\'c4\'c8\'eb\'bf\'da\'a3\'ac\'b9\'a9\'b4\'f3\'bc\'d2\'c9\'cf\'b4\'ab\'d0\'c2\'b5\'c4
+\f1 url link
+\f0 \'a3\'ac\'b5\'ab\'ca\'c7\'d2\'aa\'bd\'f7\'c9\'f7\'b7\'c0\'d6\'b9\'d3\'d0\'c8\'cb\'b6\'f1\'d2\'e2\'a3\'ac\'c9\'cf\'b4\'ab\'c1\'f7\'c3\'a5\'c8\'ed\'bc\'fe\'a1\'a3\'c3\'fc\'c1\'ee\'d0\'d0\'cf\'c2\'a3\'ac\'ca\'b9\'d3\'c3
+\f1 wget, curl
+\f0 \'b5\'c4\'ce\'ca\'cc\'e2\'d4\'f5\'c3\'b4\'bd\'e2\'be\'f6\'a3\'bf}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -164,9 +209,9 @@ wget, curl
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-266, -82.00390625}</string>
+				<string>{-576, -133.00390625}</string>
 				<key>nodeID</key>
-				<string>2D700027-0543-4B98-9E2D-2C42696B522B</string>
+				<string>B922B7AB-AC06-4CC0-86E3-EA25BE5E7ED0</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -186,7 +231,7 @@ wget, curl
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 \'ce\'b4\'bd\'e2\'be\'f6\'b5\'c4\'ce\'ca\'cc\'e2}</string>
@@ -204,9 +249,9 @@ wget, curl
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-367.91796875, 83.99609375}</string>
+				<string>{-18.91796875, 171.99609375}</string>
 				<key>nodeID</key>
-				<string>B01ADAB7-B97C-4942-9820-5BE3A8A05513</string>
+				<string>E5A0B78B-5ACE-44E1-8320-6A1013E52B05</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -220,17 +265,136 @@ wget, curl
 					<key>constrainedWidth</key>
 					<integer>300</integer>
 					<key>htmlText</key>
-					<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;我们的系统检测到您的计算机网络中存在异常流量。此网页用于确认这些请求是由您而不是自动程序发出的。为什么会这样？&lt;/p&gt;</string>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 15px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;我们的系统检测到您的计算机网络中存在异常流量。此网页用于确认这些请求是由您而不是自动程序发出的。为什么会这样？&lt;/p&gt;</string>
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs30 \cf2 \expnd0\expndtw0\kerning0
-\'ce\'d2\'c3\'c7\'b5\'c4\'cf\'b5\'cd\'b3\'bc\'ec\'b2\'e2\'b5\'bd\'c4\'fa\'b5\'c4\'bc\'c6\'cb\'e3\'bb\'fa\'cd\'f8\'c2\'e7\'d6\'d0\'b4\'e6\'d4\'da\'d2\'ec\'b3\'a3\'c1\'f7\'c1\'bf\'a1\'a3\'b4\'cb\'cd\'f8\'d2\'b3\'d3\'c3\'d3\'da\'c8\'b7\'c8\'cf\'d5\'e2\'d0\'a9\'c7\'eb\'c7\'f3\'ca\'c7\'d3\'c9\'c4\'fa\'b6\'f8\'b2\'bb\'ca\'c7\'d7\'d4\'b6\'af\'b3\'cc\'d0\'f2\'b7\'a2\'b3\'f6\'b5\'c4\'a1\'a3\'ce\'aa\'ca\'b2\'c3\'b4\'bb\'e1\'d5\'e2\'d1\'f9\'a3\'bf}</string>
+\f0\fs30 \cf2 \'ce\'d2\'c3\'c7\'b5\'c4\'cf\'b5\'cd\'b3\'bc\'ec\'b2\'e2\'b5\'bd\'c4\'fa\'b5\'c4\'bc\'c6\'cb\'e3\'bb\'fa\'cd\'f8\'c2\'e7\'d6\'d0\'b4\'e6\'d4\'da\'d2\'ec\'b3\'a3\'c1\'f7\'c1\'bf\'a1\'a3\'b4\'cb\'cd\'f8\'d2\'b3\'d3\'c3\'d3\'da\'c8\'b7\'c8\'cf\'d5\'e2\'d0\'a9\'c7\'eb\'c7\'f3\'ca\'c7\'d3\'c9\'c4\'fa\'b6\'f8\'b2\'bb\'ca\'c7\'d7\'d4\'b6\'af\'b3\'cc\'d0\'f2\'b7\'a2\'b3\'f6\'b5\'c4\'a1\'a3\'ce\'aa\'ca\'b2\'c3\'b4\'bb\'e1\'d5\'e2\'d1\'f9\'a3\'bf}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-376, -370.00390625}</string>
+				<key>nodeID</key>
+				<string>A009BF35-0B34-4039-9B78-234A084FE52B</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;对于每一个软件，其实都应该有一个默认的打开目录，而不是全局共享，然后总是要找目录。&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'b6\'d4\'d3\'da\'c3\'bf\'d2\'bb\'b8\'f6\'c8\'ed\'bc\'fe\'a3\'ac\'c6\'e4\'ca\'b5\'b6\'bc\'d3\'a6\'b8\'c3\'d3\'d0\'d2\'bb\'b8\'f6\'c4\'ac\'c8\'cf\'b5\'c4\'b4\'f2\'bf\'aa\'c4\'bf\'c2\'bc\'a3\'ac\'b6\'f8\'b2\'bb\'ca\'c7\'c8\'ab\'be\'d6\'b9\'b2\'cf\'ed\'a3\'ac\'c8\'bb\'ba\'f3\'d7\'dc\'ca\'c7\'d2\'aa\'d5\'d2\'c4\'bf\'c2\'bc\'a1\'a3}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-41, -181.00390625}</string>
+				<key>nodeID</key>
+				<string>9CAEF4D6-909C-4D5F-ABEA-E44ACCA7C22D</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;每个软件其实都应该有一个目录，用来方便编辑多个文件。如果没有这样的东西，就只能依靠从其它支持目录的编辑器中，来打开.suffix文件&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'c3\'bf\'b8\'f6\'c8\'ed\'bc\'fe\'c6\'e4\'ca\'b5\'b6\'bc\'d3\'a6\'b8\'c3\'d3\'d0\'d2\'bb\'b8\'f6\'c4\'bf\'c2\'bc\'a3\'ac\'d3\'c3\'c0\'b4\'b7\'bd\'b1\'e3\'b1\'e0\'bc\'ad\'b6\'e0\'b8\'f6\'ce\'c4\'bc\'fe\'a1\'a3\'c8\'e7\'b9\'fb\'c3\'bb\'d3\'d0\'d5\'e2\'d1\'f9\'b5\'c4\'b6\'ab\'ce\'f7\'a3\'ac\'be\'cd\'d6\'bb\'c4\'dc\'d2\'c0\'bf\'bf\'b4\'d3\'c6\'e4\'cb\'fc\'d6\'a7\'b3\'d6\'c4\'bf\'c2\'bc\'b5\'c4\'b1\'e0\'bc\'ad\'c6\'f7\'d6\'d0\'a3\'ac\'c0\'b4\'b4\'f2\'bf\'aa.suffix\'ce\'c4\'bc\'fe}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-586, 140.99609375}</string>
+				<key>nodeID</key>
+				<string>273F9BBE-A3C0-4CE4-9D0D-0DB770D525EF</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;选中一段文字后，默认打开豆瓣上书籍匹配的第一本书&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'d1\'a1\'d6\'d0\'d2\'bb\'b6\'ce\'ce\'c4\'d7\'d6\'ba\'f3\'a3\'ac\'c4\'ac\'c8\'cf\'b4\'f2\'bf\'aa\'b6\'b9\'b0\'ea\'c9\'cf\'ca\'e9\'bc\'ae\'c6\'a5\'c5\'e4\'b5\'c4\'b5\'da\'d2\'bb\'b1\'be\'ca\'e9}</string>
 				</dict>
 			</dict>
 		</array>
