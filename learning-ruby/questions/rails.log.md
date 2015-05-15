@@ -93,7 +93,7 @@ Completed 200 OK in 53ms (Views: 11.7ms | ActiveRecord: 1.5ms)
 ```
 
 4. [railties/lib/rails/rack/logger.rb](https://github.com/rails/rails/blob/master/railties/lib/rails/rack/logger.rb)和[actionpack/lib/action_controller/log_subscriber.rb](https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/log_subscriber.rb), [activerecord/lib/active_record/log_subscriber.rb](https://github.com/rails/rails/blob/master/activerecord/lib/active_record/log_subscriber.rb)是怎样被使用到的？
-最后的两个log_subscriber.rb都执行了attach_to函数，使得通过event和active_controller绑定了
+最后的两个log_subscriber.rb都执行了attach_to函数，使得通过event分别和active_controller, active_record绑定了
 ```ruby
 ActionController::LogSubscriber.attach_to :action_controller
 ```

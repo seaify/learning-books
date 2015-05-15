@@ -36,7 +36,7 @@
     
 
         
-    <div class="book" data-level="7.3" data-basepath=".." data-revision="Fri May 15 2015 18:08:03 GMT+0800 (CST)">
+    <div class="book" data-level="7.3" data-basepath=".." data-revision="Fri May 15 2015 18:12:37 GMT+0800 (CST)">
     
 
 <div class="book-summary">
@@ -427,7 +427,7 @@ Completed <span class="hljs-number">200</span> OK <span class="hljs-keyword">in<
 </code></pre>
 </li>
 <li><p><a href="https://github.com/rails/rails/blob/master/railties/lib/rails/rack/logger.rb" target="_blank">railties/lib/rails/rack/logger.rb</a>&#x548C;<a href="https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/log_subscriber.rb" target="_blank">actionpack/lib/action_controller/log_subscriber.rb</a>, <a href="https://github.com/rails/rails/blob/master/activerecord/lib/active_record/log_subscriber.rb" target="_blank">activerecord/lib/active_record/log_subscriber.rb</a>&#x662F;&#x600E;&#x6837;&#x88AB;&#x4F7F;&#x7528;&#x5230;&#x7684;&#xFF1F;
-&#x6700;&#x540E;&#x7684;&#x4E24;&#x4E2A;log_subscriber.rb&#x90FD;&#x6267;&#x884C;&#x4E86;attach_to&#x51FD;&#x6570;&#xFF0C;&#x4F7F;&#x5F97;&#x901A;&#x8FC7;event&#x548C;active_controller&#x7ED1;&#x5B9A;&#x4E86;</p>
+&#x6700;&#x540E;&#x7684;&#x4E24;&#x4E2A;log_subscriber.rb&#x90FD;&#x6267;&#x884C;&#x4E86;attach_to&#x51FD;&#x6570;&#xFF0C;&#x4F7F;&#x5F97;&#x901A;&#x8FC7;event&#x5206;&#x522B;&#x548C;active_controller, active_record&#x7ED1;&#x5B9A;&#x4E86;</p>
 <pre><code class="lang-ruby"><span class="hljs-constant">ActionController::LogSubscriber</span>.attach_to <span class="hljs-symbol">:action_controller</span>
 </code></pre>
 <pre><code class="lang-ruby"><span class="hljs-constant">ActiveRecord::LogSubscriber</span>.attach_to <span class="hljs-symbol">:active_record</span>
