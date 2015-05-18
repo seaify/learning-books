@@ -11,5 +11,6 @@
 * [问题篇](questions/README.md)
 	* [3.times/2.years.ago原理](questions/times_years.md)
 	* [maybe monad原理](questions/maybe.md)
+	* [rails api auth](questions/api_auth.md)
 	* [rails http请求日志](questions/rails.log.md)
 	* [rails 启动过程](questions/what-happen-when-rails-start.md)
