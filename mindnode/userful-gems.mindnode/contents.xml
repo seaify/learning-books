@@ -30,9 +30,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-466, -409}</string>
+				<string>{-437, -683}</string>
 				<key>nodeID</key>
-				<string>88A4A149-D00C-4B07-8CC3-06EF6EDD987B</string>
+				<string>25BE0E9E-452C-47D5-82C7-4809F725284F</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -53,9 +53,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-591, -812}</string>
+						<string>{-672, -1254}</string>
 						<key>nodeID</key>
-						<string>83E4FC32-C240-4C7B-91B9-1A25C9F5ACCE</string>
+						<string>121112DB-B5A7-461B-9953-5E1641AC4BD7</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -69,7 +69,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;devise&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/RailsApps/rails_apps_composer'&gt;rails_app_composer&lt;/a&gt;&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -77,8 +77,8 @@
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 devise}</string>
+{\field{\*\fldinst{HYPERLINK "https://github.com/RailsApps/rails_apps_composer"}}{\fldrslt 
+\f0\fs36 \cf2 rails_app_composer}}}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -93,9 +93,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-582, -766}</string>
+						<string>{-574, -1216}</string>
 						<key>nodeID</key>
-						<string>3866B568-35D2-4554-9EB6-91B952853C05</string>
+						<string>2A6E05B1-1FD6-4F8D-9E60-7A5F99A3E4C4</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -116,9 +116,92 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-942, -774}</string>
+								<string>{-784, -1216}</string>
 								<key>nodeID</key>
-								<string>F2F7BCC7-F703-4DC2-9469-B16EEF995F10</string>
+								<string>74C12151-CDAD-427B-B8C9-18621A52E174</string>
+								<key>strokeColor</key>
+								<string>{0.136, 0.807, 0.880, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来支撑&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;solr&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;索引&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'d6\'a7\'b3\'c5
+\f1 solr
+\f0 \'cb\'f7\'d2\'fd}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/sunspot/sunspot'&gt;sunspot&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/sunspot/sunspot"}}{\fldrslt 
+\f0\fs36 \cf2 sunspot}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-553, -1170}</string>
+						<key>nodeID</key>
+						<string>B4EDB3BC-AC2A-450E-B899-99F99E5FCA81</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-913, -1178}</string>
+								<key>nodeID</key>
+								<string>D4C32351-F7C4-4041-A9A3-0BB60A5BF35A</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -174,9 +257,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-658, -720}</string>
+						<string>{-629, -1124}</string>
 						<key>nodeID</key>
-						<string>39DAA4D7-BC35-495B-BA0B-EDECB4D1B678</string>
+						<string>DFB0A5BA-A841-425E-926C-F878DEF9360B</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -214,9 +297,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-578, -682}</string>
+						<string>{-549, -1086}</string>
 						<key>nodeID</key>
-						<string>85F16F82-0F0F-4A19-A89D-C540684295FF</string>
+						<string>8D5E9F77-820C-40ED-ADE4-B5B429947714</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -252,11 +335,51 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -1073.5}</string>
+						<key>nodeID</key>
+						<string>9B6BAB4C-3B2D-4582-A3A0-E1ACFB2DEAA6</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/RailsApps/rails-composer'&gt;rails_composer&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/RailsApps/rails-composer"}}{\fldrslt 
+\f0\fs36 \cf2 rails_composer}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-595, -644}</string>
+						<string>{-566, -1048}</string>
 						<key>nodeID</key>
-						<string>BA5D637C-0CDE-4375-83CE-2978A52DEE64</string>
+						<string>A42E2D2F-5A5D-4274-926D-867FD84398BE</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -294,66 +417,23 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -614.5}</string>
+						<string>{-243, -1035.5}</string>
 						<key>nodeID</key>
-						<string>160D13DC-C6CD-4F67-AF49-AF8D742CC2C5</string>
+						<string>F641574D-4BA3-41A6-874B-103DA01F0760</string>
 						<key>strokeColor</key>
-						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
 						<integer>0</integer>
 						<key>strokeWidth</key>
 						<real>6</real>
 						<key>subnodes</key>
-						<array>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{-106, -614.5}</string>
-								<key>nodeID</key>
-								<string>9F9CB913-2B56-4543-9818-62E67E33F4CA</string>
-								<key>strokeColor</key>
-								<string>{0.689, 0.215, 0.952, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来伪造&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;email&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;发送&lt;/span&gt;&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'ce\'b1\'d4\'ec
-\f1 email
-\f0 \'b7\'a2\'cb\'cd}</string>
-								</dict>
-							</dict>
-						</array>
+						<array/>
 						<key>title</key>
 						<dict>
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;mailcatcher&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/rails/rails-observers'&gt;rails-observes&lt;/a&gt;&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -361,8 +441,8 @@
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 mailcatcher}</string>
+{\field{\*\fldinst{HYPERLINK "https://github.com/rails/rails-observers"}}{\fldrslt 
+\f0\fs36 \cf2 rails-observes}}}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -377,9 +457,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-599, -613}</string>
+						<string>{-570, -1017}</string>
 						<key>nodeID</key>
-						<string>0E4A1FCB-9D5A-4C3E-969A-9E966B20378C</string>
+						<string>42B5906A-C1A2-4382-A9D1-F230482B9E24</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -415,51 +495,11 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-272, -576.5}</string>
-						<key>nodeID</key>
-						<string>A37D9B65-C4E8-4FEF-A13D-E2F6A1B67344</string>
-						<key>strokeColor</key>
-						<string>{0.689, 0.215, 0.952, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;figaro&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs30 \cf2 figaro}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-627, -575}</string>
+						<string>{-598, -979}</string>
 						<key>nodeID</key>
-						<string>0CEE5EFA-E517-441F-AE37-6B1479954A56</string>
+						<string>F3DFFAEB-0A3F-4453-99F6-F947C9238CD6</string>
 						<key>strokeColor</key>
 						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
@@ -480,9 +520,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-945, -575}</string>
+								<string>{-916, -979}</string>
 								<key>nodeID</key>
-								<string>B419E503-A369-4021-8AD7-88169BC77880</string>
+								<string>00402F42-2628-4957-AC6D-4319EDF3A47F</string>
 								<key>strokeColor</key>
 								<string>{0.822, 0.084, 0.348, 1.000}</string>
 								<key>strokeStyle</key>
@@ -540,23 +580,232 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -545.5}</string>
+						<string>{-243, -948.5}</string>
 						<key>nodeID</key>
-						<string>1E735E89-0CD5-4BE9-8D9D-F3303DF67205</string>
+						<string>6BA86329-50F8-4087-A10B-1628F9FEE4A6</string>
 						<key>strokeColor</key>
-						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
 						<integer>0</integer>
 						<key>strokeWidth</key>
 						<real>6</real>
 						<key>subnodes</key>
-						<array/>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-118, -997.5}</string>
+								<key>nodeID</key>
+								<string>AB618B7F-8C82-4515-972B-2EDB37252CA3</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{82, -997.5}</string>
+										<key>nodeID</key>
+										<string>9D146FE9-ABF7-41F2-BD52-3FDD8ADDBCFD</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来支撑邀请注册机制&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'d6\'a7\'b3\'c5\'d1\'fb\'c7\'eb\'d7\'a2\'b2\'e1\'bb\'fa\'d6\'c6}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/scambra/devise_invitable'&gt;devise_invitable&lt;/a&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/scambra/devise_invitable"}}{\fldrslt 
+\f0\fs36 \cf2 devise_invitable}}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-118, -948.5}</string>
+								<key>nodeID</key>
+								<string>B4E8FE6B-24A9-4090-BBE5-F92F0E336AA8</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{63, -959.5}</string>
+										<key>nodeID</key>
+										<string>3BFEA9C4-AD03-4485-A0A8-EFE6E66BCEAE</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来将&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;devise&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;中涉及到的邮件发送，变为异步，支撑&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;resque&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;，&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;sidekiq&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;等&lt;/span&gt;&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'bd\'ab
+\f1 devise
+\f0 \'d6\'d0\'c9\'e6\'bc\'b0\'b5\'bd\'b5\'c4\'d3\'ca\'bc\'fe\'b7\'a2\'cb\'cd\'a3\'ac\'b1\'e4\'ce\'aa\'d2\'ec\'b2\'bd\'a3\'ac\'d6\'a7\'b3\'c5
+\f1 resque
+\f0 \'a3\'ac
+\f1 sidekiq
+\f0 \'b5\'c8}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/mhfs/devise-async'&gt;devise_async&lt;/a&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/mhfs/devise-async"}}{\fldrslt 
+\f0\fs36 \cf2 devise_async}}}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-118, -899.5}</string>
+								<key>nodeID</key>
+								<string>F02276A4-729E-48F8-A187-B4E3935373E5</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;devise_token_auth&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 devise_token_auth}</string>
+								</dict>
+							</dict>
+						</array>
 						<key>title</key>
 						<dict>
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;dashing&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;devise&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -565,7 +814,7 @@
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs36 \cf2 dashing}</string>
+\f0\fs36 \cf2 devise}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -580,9 +829,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-578, -537}</string>
+						<string>{-549, -941}</string>
 						<key>nodeID</key>
-						<string>2EDAB8E4-DF35-4298-9B3C-0E09ACC801BB</string>
+						<string>7B27B08A-8653-452B-A846-8FB51EA6539D</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.742, 0.041, 1.000}</string>
 						<key>strokeStyle</key>
@@ -618,51 +867,11 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-272, -507.5}</string>
-						<key>nodeID</key>
-						<string>656A1DE6-03E9-44B0-82FE-735D6EF519D5</string>
-						<key>strokeColor</key>
-						<string>{0.822, 0.084, 0.348, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;Cucumber&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs30 \cf2 Cucumber}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-584, -499}</string>
+						<string>{-555, -903}</string>
 						<key>nodeID</key>
-						<string>5E17CA46-48D9-4EEC-AF56-E7CE0A7D5D27</string>
+						<string>5215526C-FDF2-4D84-AD39-057BA728EE33</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -676,7 +885,7 @@
 							<key>constrainedWidth</key>
 							<integer>300</integer>
 							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;ffaker&lt;/p&gt;</string>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/EmmanuelOga/ffaker'&gt;ffaker&lt;/a&gt;&lt;/p&gt;</string>
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
@@ -684,8 +893,8 @@
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 ffaker}</string>
+{\field{\*\fldinst{HYPERLINK "https://github.com/EmmanuelOga/ffaker"}}{\fldrslt 
+\f0\fs36 \cf2 ffaker}}}</string>
 						</dict>
 					</dict>
 					<dict>
@@ -700,9 +909,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -463}</string>
+						<string>{-243, -861.5}</string>
 						<key>nodeID</key>
-						<string>30FCCC4D-B5AA-42F5-AA7C-C57D9D889FB6</string>
+						<string>F0BF6951-C024-4AB2-B97E-B42FEB365270</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -723,9 +932,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-145, -476.5}</string>
+								<string>{-77, -861.5}</string>
 								<key>nodeID</key>
-								<string>5C307EED-37C1-4219-B94E-168CEE2B3AF2</string>
+								<string>28709907-3771-4BA8-9815-40E454502E31</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -739,7 +948,170 @@
 									<key>constrainedWidth</key>
 									<integer>300</integer>
 									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;更方便的用来做交互方面的测试，如自动登录后返回的页面&lt;/p&gt;</string>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来伪造&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;email&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;发送&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'ce\'b1\'d4\'ec
+\f1 email
+\f0 \'b7\'a2\'cb\'cd}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;mailcatcher&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 mailcatcher}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -823.5}</string>
+						<key>nodeID</key>
+						<string>BEEE021B-B9EF-468B-9893-64FDC9517F2D</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;figaro&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 figaro}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -792.5}</string>
+						<key>nodeID</key>
+						<string>31F8EFB1-DFD0-444A-ACC9-915860C6F2EE</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;dashing&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 dashing}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -751.5}</string>
+						<key>nodeID</key>
+						<string>60DD2426-2AC8-4C99-82BD-2FC3B70B43B7</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-108, -754.5}</string>
+								<key>nodeID</key>
+								<string>F70AA972-C993-4952-80A0-89BEE90B244D</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;人类可读的测试&lt;/p&gt;</string>
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
@@ -748,7 +1120,529 @@
 {\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs30 \cf2 \'b8\'fc\'b7\'bd\'b1\'e3\'b5\'c4\'d3\'c3\'c0\'b4\'d7\'f6\'bd\'bb\'bb\'a5\'b7\'bd\'c3\'e6\'b5\'c4\'b2\'e2\'ca\'d4\'a3\'ac\'c8\'e7\'d7\'d4\'b6\'af\'b5\'c7\'c2\'bc\'ba\'f3\'b7\'b5\'bb\'d8\'b5\'c4\'d2\'b3\'c3\'e6}</string>
+\f0\fs30 \cf2 \'c8\'cb\'c0\'e0\'bf\'c9\'b6\'c1\'b5\'c4\'b2\'e2\'ca\'d4}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;&lt;a href='https://github.com/cucumber/cucumber'&gt;Cucumber&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/cucumber/cucumber"}}{\fldrslt 
+\f0\fs30 \cf2 Cucumber}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-556, -732}</string>
+						<key>nodeID</key>
+						<string>794551F3-52B0-41D1-BEE5-81173AFD6124</string>
+						<key>strokeColor</key>
+						<string>{0.822, 0.084, 0.348, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-727, -865}</string>
+								<key>nodeID</key>
+								<string>33E49E79-F426-481E-A830-4E58B1467E19</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-rspec&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-rspec}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-743, -827}</string>
+								<key>nodeID</key>
+								<string>AC2D58FC-E2BB-4ECA-8B2A-31CDC493C209</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-migrate&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-migrate}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-759, -789}</string>
+								<key>nodeID</key>
+								<string>1B2E582D-E956-4D9E-B321-D14B3B56EA7B</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-livereload&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-livereload}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-743, -751}</string>
+								<key>nodeID</key>
+								<string>FD48F105-7303-49D5-912B-A77D050FE20F</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-bundler&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-bundler}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-737, -713}</string>
+								<key>nodeID</key>
+								<string>59F61F08-850D-429A-9924-266A97A38E40</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-concat&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-concat}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-717, -675}</string>
+								<key>nodeID</key>
+								<string>A9ECC8F7-2EE5-45FF-B24E-FDABEEA10FBA</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-rake&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-rake}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-753, -637}</string>
+								<key>nodeID</key>
+								<string>35BCB731-62B9-4681-AD01-3FB87E3FD40A</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-annotate&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-annotate}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-725, -599}</string>
+								<key>nodeID</key>
+								<string>DCA81631-82D5-4D68-9185-D6AADBE27D28</string>
+								<key>strokeColor</key>
+								<string>{0.822, 0.084, 0.348, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;guard-uglify&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 guard-uglify}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/guard/guard'&gt;guard&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/guard/guard"}}{\fldrslt 
+\f0\fs36 \cf2 guard}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -717.5}</string>
+						<key>nodeID</key>
+						<string>A1E5BE01-4953-49AA-BF02-DDEE040C0837</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/settingslogic/settingslogic'&gt;settingslogic&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/settingslogic/settingslogic"}}{\fldrslt 
+\f0\fs36 \cf2 settingslogic}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -679.5}</string>
+						<key>nodeID</key>
+						<string>9808B396-0D96-4F25-A09F-F031B332EC88</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/activeadmin/activeadmin'&gt;activeadmin&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/activeadmin/activeadmin"}}{\fldrslt 
+\f0\fs36 \cf2 activeadmin}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -628}</string>
+						<key>nodeID</key>
+						<string>544B434D-35B5-4DF0-8C7D-263EC1D179FD</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-116, -641.5}</string>
+								<key>nodeID</key>
+								<string>A325ECBB-0D63-40C7-8F31-4FD6811136F0</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Songti SC"; text-align: left; -cocoa-font-postscriptname: "STSongti-SC-Regular"; '&gt;更方便的用来做交互方面的测试，如自动登录后返回的页面，浏览器端的测试&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STSongti-SC-Regular;}
+{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs30 \cf2 \'b8\'fc\'b7\'bd\'b1\'e3\'b5\'c4\'d3\'c3\'c0\'b4\'d7\'f6\'bd\'bb\'bb\'a5\'b7\'bd\'c3\'e6\'b5\'c4\'b2\'e2\'ca\'d4\'a3\'ac\'c8\'e7\'d7\'d4\'b6\'af\'b5\'c7\'c2\'bc\'ba\'f3\'b7\'b5\'bb\'d8\'b5\'c4\'d2\'b3\'c3\'e6\'a3\'ac\'e4\'af\'c0\'c0\'c6\'f7\'b6\'cb\'b5\'c4\'b2\'e2\'ca\'d4}</string>
 								</dict>
 							</dict>
 						</array>
@@ -779,91 +1673,11 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
-						<true/>
-						<key>location</key>
-						<string>{-585, -461}</string>
-						<key>nodeID</key>
-						<string>A968E30C-BECA-4073-B543-DF25D74EA3A6</string>
-						<key>strokeColor</key>
-						<string>{0.822, 0.084, 0.348, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/guard/guard'&gt;guard&lt;/a&gt;&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "https://github.com/guard/guard"}}{\fldrslt 
-\f0\fs36 \cf2 guard}}}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<true/>
-						<key>location</key>
-						<string>{-637, -423}</string>
-						<key>nodeID</key>
-						<string>BBA80C9C-2704-479F-84E5-2CD27C22E498</string>
-						<key>strokeColor</key>
-						<string>{1.000, 0.742, 0.041, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/plataformatec/simple_form'&gt;simple_form&lt;/a&gt;&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "https://github.com/plataformatec/simple_form"}}{\fldrslt 
-\f0\fs36 \cf2 simple_form}}}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -407.5}</string>
+						<string>{-243, -572.5}</string>
 						<key>nodeID</key>
-						<string>809A7854-5A35-4830-B2D3-EE1A348A04DC</string>
+						<string>2BAE76F5-5328-48FA-A0C2-535C16D6ACDB</string>
 						<key>strokeColor</key>
 						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
@@ -884,9 +1698,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-129, -418.5}</string>
+								<string>{-100, -583.5}</string>
 								<key>nodeID</key>
-								<string>8299D42D-67B0-4547-AD96-31D7D3E0FA5A</string>
+								<string>B53EBA82-682D-4302-9F9F-DCB39120A19A</string>
 								<key>strokeColor</key>
 								<string>{0.822, 0.084, 0.348, 1.000}</string>
 								<key>strokeStyle</key>
@@ -946,9 +1760,89 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-643, -385}</string>
+						<string>{-608, -561}</string>
 						<key>nodeID</key>
-						<string>CBE5A2F3-575C-43E9-9A37-9442695C265A</string>
+						<string>5595F24C-22D8-4CD8-A7B0-67183CFA26B4</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/plataformatec/simple_form'&gt;simple_form&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/plataformatec/simple_form"}}{\fldrslt 
+\f0\fs36 \cf2 simple_form}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -523.5}</string>
+						<key>nodeID</key>
+						<string>D772BC68-30DB-4006-AA53-FCD6B5F47ECF</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;&lt;a href='http://rspec.info/documentation/3.2/rspec-rails/'&gt;rspec-rails&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://rspec.info/documentation/3.2/rspec-rails/"}}{\fldrslt 
+\f0\fs30 \cf2 rspec-rails}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-614, -523}</string>
+						<key>nodeID</key>
+						<string>49878E6F-A1D7-4D55-9F33-5616C02569B3</string>
 						<key>strokeColor</key>
 						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
@@ -986,89 +1880,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -358.5}</string>
+						<string>{-243, -492.5}</string>
 						<key>nodeID</key>
-						<string>E4616D04-1066-45EE-9E2B-69D3AAB28365</string>
-						<key>strokeColor</key>
-						<string>{1.000, 0.742, 0.041, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;&lt;a href='https://github.com/rspec/rspec'&gt;rspec&lt;/a&gt;&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "https://github.com/rspec/rspec"}}{\fldrslt 
-\f0\fs30 \cf2 rspec}}}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-272, -327.5}</string>
-						<key>nodeID</key>
-						<string>681B3DA8-6905-4EDD-8D66-68CEAE28E7D1</string>
-						<key>strokeColor</key>
-						<string>{0.144, 0.670, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array/>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;factory_girl&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 factory_girl}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-272, -289.5}</string>
-						<key>nodeID</key>
-						<string>F291AA4C-BE24-4C9E-A5CD-7FC0248EC7E0</string>
+						<string>D45AE245-7E10-4981-B02E-8892F2609DF4</string>
 						<key>strokeColor</key>
 						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1106,9 +1920,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -251.5}</string>
+						<string>{-243, -454.5}</string>
 						<key>nodeID</key>
-						<string>2657CD04-252B-4DDD-983F-8D9D5B01C73A</string>
+						<string>65133B5A-5354-497E-A850-F81F6FCF8726</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1116,48 +1930,7 @@
 						<key>strokeWidth</key>
 						<real>6</real>
 						<key>subnodes</key>
-						<array>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{-107, -251.5}</string>
-								<key>nodeID</key>
-								<string>A2CE872F-4B82-4F63-B3A2-A1582F9798CD</string>
-								<key>strokeColor</key>
-								<string>{0.136, 0.807, 0.880, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array/>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(46, 46, 49, 1.000000); font: 15px "Times"; text-align: left; -cocoa-font-postscriptname: "Times-Roman"; '&gt;New Node&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\froman\fcharset0 Times-Roman;}
-{\colortbl;\red255\green255\blue255;\red46\green46\blue49;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs30 \cf2 New Node}</string>
-								</dict>
-							</dict>
-						</array>
+						<array/>
 						<key>title</key>
 						<dict>
 							<key>constrainedWidth</key>
@@ -1187,9 +1960,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -220.5}</string>
+						<string>{-243, -423.5}</string>
 						<key>nodeID</key>
-						<string>0B7343F4-B4B4-47BB-BFD7-3121FFD6E661</string>
+						<string>698DDE5D-4E3F-4FD3-B28E-F52234ABA140</string>
 						<key>strokeColor</key>
 						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1227,9 +2000,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-272, -182.5}</string>
+						<string>{-243, -385.5}</string>
 						<key>nodeID</key>
-						<string>254E626C-F40D-4243-B5DE-CA3A036E6EEC</string>
+						<string>0ECB7378-25F5-4497-B494-6DDAD0F286FE</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1265,11 +2038,173 @@
 						<key>isDrawingFill</key>
 						<false/>
 						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -347.5}</string>
+						<key>nodeID</key>
+						<string>B61B3479-97EF-4F04-8636-DE1B489BCF20</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-102, -347.5}</string>
+								<key>nodeID</key>
+								<string>FEAADD9F-C8AD-40E7-884E-A1F483F648F5</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;处理分页&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'b4\'a6\'c0\'ed\'b7\'d6\'d2\'b3}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/amatsuda/kaminari'&gt;kaminari&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/amatsuda/kaminari"}}{\fldrslt 
+\f0\fs36 \cf2 kaminari}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -309.5}</string>
+						<key>nodeID</key>
+						<string>4C0469C0-797B-4DAF-BFEB-19082A6B0A0E</string>
+						<key>strokeColor</key>
+						<string>{0.194, 0.734, 0.282, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-78, -309.5}</string>
+								<key>nodeID</key>
+								<string>4F097756-96A1-40FB-864D-B8749AF8BBD5</string>
+								<key>strokeColor</key>
+								<string>{0.194, 0.734, 0.282, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;用来上传文件&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'d3\'c3\'c0\'b4\'c9\'cf\'b4\'ab\'ce\'c4\'bc\'fe}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;carrierwave&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 carrierwave}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-637, -162.5}</string>
+						<string>{-608, -300.5}</string>
 						<key>nodeID</key>
-						<string>42E56DB8-41FF-498B-91F0-664D95AB18C6</string>
+						<string>0350329D-DB1F-4261-9959-B62C0CC8648E</string>
 						<key>strokeColor</key>
 						<string>{0.144, 0.670, 1.000, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1290,9 +2225,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-998, -347}</string>
+								<string>{-969, -485}</string>
 								<key>nodeID</key>
-								<string>B8D2F8C8-7DEC-4A44-8395-DC585358A848</string>
+								<string>09E9FD06-55CD-4ACF-A7E7-0B838837CC35</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1338,9 +2273,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-914, -226}</string>
+								<string>{-885, -364}</string>
 								<key>nodeID</key>
-								<string>E22C26C0-3671-42B0-84EF-C253E1EFCAD1</string>
+								<string>4DDE9874-9471-4DF5-88BB-33F54C2195BF</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1381,9 +2316,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-994, -189}</string>
+								<string>{-965, -327}</string>
 								<key>nodeID</key>
-								<string>0202C56C-C7A9-4A0D-A2ED-621270FC3939</string>
+								<string>171D7476-1A94-49A6-AC79-3DDB618ACFF1</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1426,9 +2361,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-774, -131}</string>
+								<string>{-745, -269}</string>
 								<key>nodeID</key>
-								<string>D6FA4F8A-EE5C-4B37-8079-EF8A39C843BC</string>
+								<string>5028F02B-4B53-45BC-B5D1-4E8E275FE485</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1466,9 +2401,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-869, -100}</string>
+								<string>{-840, -238}</string>
 								<key>nodeID</key>
-								<string>F91B7FA8-A37B-47A9-98FA-8A47BE10EA91</string>
+								<string>21B3C612-B2C4-48DD-9CE7-FA6015A247C5</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1506,9 +2441,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-961, -63}</string>
+								<string>{-932, -201}</string>
 								<key>nodeID</key>
-								<string>173E5106-CEFA-4412-8625-CE3C05708106</string>
+								<string>C5598D12-3B7A-42C3-B5E9-6B5C11A34D9B</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1558,9 +2493,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-844, 16}</string>
+								<string>{-815, -122}</string>
 								<key>nodeID</key>
-								<string>80ABE10D-0819-453C-A210-F8807134DB7E</string>
+								<string>5EA23A9A-88B4-452F-B3B0-3719BC5AFC34</string>
 								<key>strokeColor</key>
 								<string>{0.144, 0.670, 1.000, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1602,6 +2537,87 @@
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 {\field{\*\fldinst{HYPERLINK "http://www.slideshare.net/gabevanslv/factory-girl-15924188"}}{\fldrslt 
 \f0\fs30 \cf2 factory_girl_rail}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-243, -271.5}</string>
+						<key>nodeID</key>
+						<string>E96CAED7-91E7-427E-A486-4653A6E510F8</string>
+						<key>strokeColor</key>
+						<string>{0.136, 0.807, 0.880, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;&lt;a href='https://github.com/RailsApps/rails_layout/'&gt;rails-layout&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/RailsApps/rails_layout/"}}{\fldrslt 
+\f0\fs36 \cf2 rails-layout}}}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-611, -85}</string>
+						<key>nodeID</key>
+						<string>90042676-BD07-4C47-8466-6DF026C39035</string>
+						<key>strokeColor</key>
+						<string>{1.000, 0.742, 0.041, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array/>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='background-color: rgba(244, 244, 244, 1.000000); color: rgba(38, 38, 38, 1.000000); font: 14px "Menlo"; -cocoa-font-postscriptname: "Menlo-Regular"; '&gt;&lt;a href='https://github.com/paul/progress_bar'&gt;progress_bar&lt;/a&gt;&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red38\green38\blue38;\red245\green245\blue245;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "https://github.com/paul/progress_bar"}}{\fldrslt 
+\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 progress_bar}}}</string>
 						</dict>
 					</dict>
 				</array>

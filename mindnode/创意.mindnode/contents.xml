@@ -18,11 +18,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>0B79C6C9-2444-454D-AD23-4D2C2D660380</string>
+				<string>DB1B2611-869D-4196-AE28-CE42CBF211AF</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>6465C810-67E6-4606-9DB4-6D6071AB2346</string>
+				<string>40F0C58D-11B9-49B8-803C-F405929AF392</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -36,11 +36,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>91CBEBC2-5398-4C9F-AA1A-3AA2036395C6</string>
+				<string>101D9093-D8C6-4E6D-BD80-1C3161BB3375</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -48,17 +48,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{154.122, 193.734}</string>
+				<string>{278.787, 202.088}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>B2CE2F28-93B1-49AB-944F-BC8E7316C445</string>
+				<string>80B3415D-AFFC-4699-966F-4323BB17534A</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -66,17 +66,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-270.537, 67.32}</string>
+				<string>{-287.887, 64.107}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>4875D2F9-3279-4773-AAE7-2F949FE866A7</string>
+				<string>1F0799D2-C274-4339-B035-931B2ECF3AD6</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -84,17 +84,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{116.735, -11.6831}</string>
+				<string>{168.143, -1.40142}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>46D9F747-D87D-4704-BCCD-65A6933ECCB1</string>
+				<string>7B04F562-2956-4F30-9A84-6FBB1455E2ED</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -102,17 +102,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-129.419, 178.234}</string>
+				<string>{-117.21, 205.866}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>CBA91E4B-C6F4-41BA-89F4-4C3491B57252</string>
+				<string>3DB7DA48-8CEB-4243-8CE7-64547108A50E</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>6465C810-67E6-4606-9DB4-6D6071AB2346</string>
+				<string>40F0C58D-11B9-49B8-803C-F405929AF392</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -126,11 +126,11 @@
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>B9F85020-739C-431E-B359-D519EFDBFE83</string>
+				<string>5EA7A412-DFCE-4391-B7F4-8BD4DE6B9DDB</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -138,17 +138,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-97.9226, -135.608}</string>
+				<string>{-74.7888, -118.258}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>A9672046-58B6-4F7F-A77A-2623F6CFB33F</string>
+				<string>2D193B6F-6EBA-448D-8236-4507884C67BC</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -156,17 +156,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{183.217, 96.0511}</string>
+				<string>{253.261, 105.048}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>C0CA7B56-07B6-4C4C-8E51-4320C4183AC7</string>
+				<string>CE32F49A-7446-4B24-A258-75162B63C36C</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -174,17 +174,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-325.726, -14.477}</string>
+				<string>{-305.163, -10.6214}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>FD945E61-920E-4D16-9998-F66CF2F3B0D8</string>
+				<string>2429D3B7-DC90-4798-B062-FE1B3D5475EE</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -192,17 +192,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{163.296, -137.215}</string>
+				<string>{190.929, -108.298}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>50A359DD-BF0E-44B4-89E4-F2E9392969FA</string>
+				<string>8326AF9F-4373-4EF0-AA20-40516F1D7111</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -210,17 +210,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-258.895, -92.8748}</string>
+				<string>{-283.957, -78.7376}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>696638BC-A979-40B0-BA93-08BD5D354F63</string>
+				<string>6B700028-AED8-461C-BE65-542CA8DF3BA6</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -228,17 +228,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-328.802, 175.734}</string>
+				<string>{-305.668, 193.084}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>35BACB54-84A1-48A6-9089-5F7DFBC890B7</string>
+				<string>CD650605-F7BD-4AFE-8D04-909FEB5D5818</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -246,17 +246,17 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{-208.1, -139.785}</string>
+				<string>{-184.966, -122.435}</string>
 			</dict>
 			<dict>
 				<key>endArrow</key>
 				<integer>2</integer>
 				<key>endNodeID</key>
-				<string>BE697547-6E29-4991-AA9F-6D832F0E481D</string>
+				<string>F0552337-AB92-48ED-AAAC-5E8D1ECE2101</string>
 				<key>startArrow</key>
 				<integer>0</integer>
 				<key>startNodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.997, 0.355, 0.184, 1.000}</string>
 				<key>strokeStyle</key>
@@ -264,7 +264,43 @@
 				<key>strokeWidth</key>
 				<real>2</real>
 				<key>wayPointOffset</key>
-				<string>{108.061, -168.7}</string>
+				<string>{131.195, -151.35}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>69DB7751-5011-4E44-8891-C1AC8721B12A</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{8.45746, 149.915}</string>
+			</dict>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>1D9E4F33-88E0-4AAA-A78A-DCB3A53D29E1</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{124.769, 198.111}</string>
 			</dict>
 		</array>
 		<key>color</key>
@@ -285,7 +321,7 @@
 				<key>location</key>
 				<string>{331, -307}</string>
 				<key>nodeID</key>
-				<string>6465C810-67E6-4606-9DB4-6D6071AB2346</string>
+				<string>40F0C58D-11B9-49B8-803C-F405929AF392</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -325,7 +361,7 @@
 				<key>location</key>
 				<string>{437, -501.00390625}</string>
 				<key>nodeID</key>
-				<string>0B79C6C9-2444-454D-AD23-4D2C2D660380</string>
+				<string>DB1B2611-869D-4196-AE28-CE42CBF211AF</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -371,9 +407,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-344.66214318106313, -213.9721561366282}</string>
+				<string>{-390.92971454485041, -248.67283465946866}</string>
 				<key>nodeID</key>
-				<string>F6B9C323-F98A-4E34-9D23-3D5AA2867ADD</string>
+				<string>C7B02693-76C4-42DC-8947-2FD24F0B47B5</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -411,9 +447,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-18.91796875, 171.99609375}</string>
+				<string>{184.14526112440035, 154.00314933074924}</string>
 				<key>nodeID</key>
-				<string>91CBEBC2-5398-4C9F-AA1A-3AA2036395C6</string>
+				<string>101D9093-D8C6-4E6D-BD80-1C3161BB3375</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -451,9 +487,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-868.23555089807121, -80.831585226328741}</string>
+				<string>{-949.20380078469918, -121.95831532747303}</string>
 				<key>nodeID</key>
-				<string>B2CE2F28-93B1-49AB-944F-BC8E7316C445</string>
+				<string>80B3415D-AFFC-4699-966F-4323BB17534A</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -491,9 +527,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-93.693622942091565, -238.8383704547341}</string>
+				<string>{-37.144369053018067, -252.97568392700248}</string>
 				<key>nodeID</key>
-				<string>4875D2F9-3279-4773-AAE7-2F949FE866A7</string>
+				<string>1F0799D2-C274-4339-B035-931B2ECF3AD6</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -531,9 +567,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-586, 140.99609375}</string>
+				<string>{-607.84857536623292, 161.55945880057232}</string>
 				<key>nodeID</key>
-				<string>46D9F747-D87D-4704-BCCD-65A6933ECCB1</string>
+				<string>7B04F562-2956-4F30-9A84-6FBB1455E2ED</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -573,7 +609,7 @@
 				<key>location</key>
 				<string>{464.03419649437092, -180.80827514885482}</string>
 				<key>nodeID</key>
-				<string>CBA91E4B-C6F4-41BA-89F4-4C3491B57252</string>
+				<string>3DB7DA48-8CEB-4243-8CE7-64547108A50E</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -613,7 +649,7 @@
 				<key>location</key>
 				<string>{-523.00732593309294, -486.68833027611583}</string>
 				<key>nodeID</key>
-				<string>B9F85020-739C-431E-B359-D519EFDBFE83</string>
+				<string>5EA7A412-DFCE-4391-B7F4-8BD4DE6B9DDB</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -652,9 +688,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{39.272187168489381, -23.370011480411335}</string>
+				<string>{133.09254021172524, -40.077745584001036}</string>
 				<key>nodeID</key>
-				<string>A9672046-58B6-4F7F-A77A-2623F6CFB33F</string>
+				<string>2D193B6F-6EBA-448D-8236-4507884C67BC</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -674,20 +710,20 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 \'ce\'aa\'ca\'b2\'c3\'b4
-\f1 devise
-\f0 \'ca\'b9\'d3\'c3
-\f1 username
-\f0 \'c0\'b4\'b5\'c7\'c2\'bc\'ca\'b1\'a3\'ac
-\f1 rails generate devise:view
-\f0 \'a3\'ac\'b2\'bb\'c4\'dc\'b9\'bb\'b8\'f9\'be\'dd
-\f1 config
-\f0 \'c0\'ef\'b5\'c4\'d7\'d6\'b6\'ce\'c0\'b4\'b8\'fc\'d0\'c2
-\f1 view 
-\f0 \'ce\'c4\'bc\'fe\'c4\'d8\'a3\'bf}</string>
+\f1 \cf2 devise
+\f0 \cf2 \'ca\'b9\'d3\'c3
+\f1 \cf2 username
+\f0 \cf2 \'c0\'b4\'b5\'c7\'c2\'bc\'ca\'b1\'a3\'ac
+\f1 \cf2 rails generate devise:view
+\f0 \cf2 \'a3\'ac\'b2\'bb\'c4\'dc\'b9\'bb\'b8\'f9\'be\'dd
+\f1 \cf2 config
+\f0 \cf2 \'c0\'ef\'b5\'c4\'d7\'d6\'b6\'ce\'c0\'b4\'b8\'fc\'d0\'c2
+\f1 \cf2 view 
+\f0 \cf2 \'ce\'c4\'bc\'fe\'c4\'d8\'a3\'bf}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -702,9 +738,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-978.61438283483312, -244.42618577406211}</string>
+				<string>{-983.75522409747612, -271.41560240293813}</string>
 				<key>nodeID</key>
-				<string>C0CA7B56-07B6-4C4C-8E51-4320C4183AC7</string>
+				<string>CE32F49A-7446-4B24-A258-75162B63C36C</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -724,13 +760,13 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 nginx
-\f1 \'c5\'e4\'d6\'c3\'d3\'f2\'c3\'fb\'a3\'ac\'d2\'d4\'bc\'b0
-\f0 nginx
-\f1 \'c5\'e4\'d6\'c3conf\'ce\'c4\'bc\'fe\'a3\'acsupervisord\'c5\'e4\'d6\'c3conf\'ce\'c4\'bc\'fe\'d7\'f6\'b3\'c9\'d2\'bb\'b8\'f6workflow}</string>
+\f1 \cf2 \'c5\'e4\'d6\'c3\'d3\'f2\'c3\'fb\'a3\'ac\'d2\'d4\'bc\'b0
+\f0 \cf2 nginx
+\f1 \cf2 \'c5\'e4\'d6\'c3conf\'ce\'c4\'bc\'fe\'a3\'acsupervisord\'c5\'e4\'d6\'c3conf\'ce\'c4\'bc\'fe\'d7\'f6\'b3\'c9\'d2\'bb\'b8\'f6workflow}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -745,9 +781,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-0.56933261699418836, -489.90135606526718}</string>
+				<string>{8.4271395926311925, -466.76757038337354}</string>
 				<key>nodeID</key>
-				<string>FD945E61-920E-4D16-9998-F66CF2F3B0D8</string>
+				<string>2429D3B7-DC90-4798-B062-FE1B3D5475EE</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -767,12 +803,12 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 \'d2\'bb\'d0\'a9\'b7\'fe\'ce\'f1\'b3\'f6\'b4\'ed\'ba\'f3\'a3\'ac\'ce\'d2\'c3\'c7\'d7\'dc\'ca\'c7\'d0\'e8\'d2\'aa\'cc\'f8\'d7\'aa\'b5\'bd\'d6\'b8\'b6\'a8\'b7\'fe\'ce\'f1\'c6\'f7\'c9\'cf\'a3\'ac\'b2\'e9\'bf\'b4\'cf\'e0\'d3\'a6\'b5\'c4
-\f1 log
-\f0 \'ce\'c4\'bc\'fe\'a3\'ac\'d0\'e8\'d2\'aa\'b5\'c7\'c2\'bc\'a3\'ac\'cc\'f8\'d7\'aa\'c4\'bf\'c2\'bc\'b5\'c4\'b9\'fd\'b3\'cc\'a3\'ac\'b7\'b1\'cb\'f6}</string>
+\f1 \cf2 log
+\f0 \cf2 \'ce\'c4\'bc\'fe\'a3\'ac\'d0\'e8\'d2\'aa\'b5\'c7\'c2\'bc\'a3\'ac\'cc\'f8\'d7\'aa\'c4\'bf\'c2\'bc\'b5\'c4\'b9\'fd\'b3\'cc\'a3\'ac\'b7\'b1\'cb\'f6}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -787,9 +823,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-844.95251000611404, -401.22184428467466}</string>
+				<string>{-941.34328368067111, -407.64789586297843}</string>
 				<key>nodeID</key>
-				<string>50A359DD-BF0E-44B4-89E4-F2E9392969FA</string>
+				<string>8326AF9F-4373-4EF0-AA20-40516F1D7111</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -803,21 +839,20 @@
 					<key>constrainedWidth</key>
 					<integer>300</integer>
 					<key>htmlText</key>
-					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;M&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;chrome&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;当前域名下，查看该域名的&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;host&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;指向地址&lt;/span&gt;&lt;/p&gt;</string>
+					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;在&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;chrome&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;当前域名下，查看该域名的&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;host&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;指向地址&lt;/span&gt;&lt;/p&gt;</string>
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
-\f0\fs42 \cf2 M
-\f1 \'d4\'da
-\f0 chrome
-\f1 \'b5\'b1\'c7\'b0\'d3\'f2\'c3\'fb\'cf\'c2\'a3\'ac\'b2\'e9\'bf\'b4\'b8\'c3\'d3\'f2\'c3\'fb\'b5\'c4
-\f0 host
-\f1 \'d6\'b8\'cf\'f2\'b5\'d8\'d6\'b7}</string>
+\f0\fs42 \cf2 \'d4\'da
+\f1 \cf2 chrome
+\f0 \cf2 \'b5\'b1\'c7\'b0\'d3\'f2\'c3\'fb\'cf\'c2\'a3\'ac\'b2\'e9\'bf\'b4\'b8\'c3\'d3\'f2\'c3\'fb\'b5\'c4
+\f1 \cf2 host
+\f0 \cf2 \'d6\'b8\'cf\'f2\'b5\'d8\'d6\'b7}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -834,7 +869,7 @@
 				<key>location</key>
 				<string>{-984.76607782094493, 135.99606766153204}</string>
 				<key>nodeID</key>
-				<string>696638BC-A979-40B0-BA93-08BD5D354F63</string>
+				<string>6B700028-AED8-461C-BE65-542CA8DF3BA6</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -854,15 +889,15 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 sudo gem install 
-\f1 \'ba\'cd
-\f0  gem install
-\f1 \'ca\'c7\'b2\'bb\'d2\'bb\'d1\'f9\'b5\'c4\'a3\'ac
-\f0 sudo
-\f1 \'b0\'b2\'d7\'b0\'b5\'c4\'b0\'fc\'a3\'ac\'bf\'c9\'c4\'dc\'d5\'d2\'b2\'bb\'b5\'bd}</string>
+\f1 \cf2 \'ba\'cd
+\f0 \cf2  gem install
+\f1 \cf2 \'ca\'c7\'b2\'bb\'d2\'bb\'d1\'f9\'b5\'c4\'a3\'ac
+\f0 \cf2 sudo
+\f1 \cf2 \'b0\'b2\'d7\'b0\'b5\'c4\'b0\'fc\'a3\'ac\'bf\'c9\'c4\'dc\'d5\'d2\'b2\'bb\'b5\'bd}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -879,7 +914,7 @@
 				<key>location</key>
 				<string>{-743.36309205624866, -495.04219732790153}</string>
 				<key>nodeID</key>
-				<string>35BACB54-84A1-48A6-9089-5F7DFBC890B7</string>
+				<string>CD650605-F7BD-4AFE-8D04-909FEB5D5818</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -899,13 +934,13 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 M
-\f1 \'d7\'a2\'d2\'e2\'ca\'b9\'d3\'c3\'b6\'e0\'b8\'f6
-\f0 gem
-\f1 \'ba\'f3\'a3\'ac\'c8\'dd\'d2\'d7\'bb\'ec\'c2\'d2}</string>
+\f1 \cf2 \'d7\'a2\'d2\'e2\'ca\'b9\'d3\'c3\'b6\'e0\'b8\'f6
+\f0 \cf2 gem
+\f1 \cf2 \'ba\'f3\'a3\'ac\'c8\'dd\'d2\'d7\'bb\'ec\'c2\'d2}</string>
 				</dict>
 			</dict>
 			<dict>
@@ -922,7 +957,7 @@
 				<key>location</key>
 				<string>{-111.03961675115443, -552.87164117984025}</string>
 				<key>nodeID</key>
-				<string>BE697547-6E29-4991-AA9F-6D832F0E481D</string>
+				<string>F0552337-AB92-48ED-AAAC-5E8D1ECE2101</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -942,13 +977,99 @@
 					<key>text</key>
 					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
 {\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Light;\f1\fnil\fcharset134 STHeitiSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 M
-\f1 \'d7\'a2\'d2\'e2
-\f0 rails
-\f1 \'b5\'c4\'bb\'b7\'be\'b3\'b1\'e4\'c1\'bf}</string>
+\f1 \cf2 \'d7\'a2\'d2\'e2
+\f0 \cf2 rails
+\f1 \cf2 \'b5\'c4\'bb\'b7\'be\'b3\'b1\'e4\'c1\'bf}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-356.51478704235865, 49.657804333647846}</string>
+				<key>nodeID</key>
+				<string>69DB7751-5011-4E44-8891-C1AC8721B12A</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;执行&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;rails g migration&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;后，生成文件后，自动打开文件，命令行下&lt;/span&gt;&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'d6\'b4\'d0\'d0
+\f1 rails g migration
+\f0 \'ba\'f3\'a3\'ac\'c9\'fa\'b3\'c9\'ce\'c4\'bc\'fe\'ba\'f3\'a3\'ac\'d7\'d4\'b6\'af\'b4\'f2\'bf\'aa\'ce\'c4\'bc\'fe\'a3\'ac\'c3\'fc\'c1\'ee\'d0\'d0\'cf\'c2}</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{-123.89171990776094, 146.0485780082015}</string>
+				<key>nodeID</key>
+				<string>1D9E4F33-88E0-4AAA-A78A-DCB3A53D29E1</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array/>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;让&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;spec&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;运行测试样例时，也输出&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue-Light"; '&gt;sql&lt;/span&gt;&lt;span style='color: rgba(21, 122, 150, 1.000000); font: 21px "Heiti SC"; -cocoa-font-postscriptname: "STHeitiSC-Light"; '&gt;语句&lt;/span&gt;&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg1252\cocoartf1347\cocoasubrtf570
+{\fonttbl\f0\fnil\fcharset134 STHeitiSC-Light;\f1\fnil\fcharset0 HelveticaNeue-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs42 \cf2 \'c8\'c3
+\f1 spec
+\f0 \'d4\'cb\'d0\'d0\'b2\'e2\'ca\'d4\'d1\'f9\'c0\'fd\'ca\'b1\'a3\'ac\'d2\'b2\'ca\'e4\'b3\'f6
+\f1 sql
+\f0 \'d3\'ef\'be\'e4}</string>
 				</dict>
 			</dict>
 		</array>
