@@ -3,7 +3,10 @@
 * [数据类型](datatype.md)
 * [函数](function.md)
 * [类和模块](class_module.md)
-* [第三方库](third-party.md)
+* [学会使用guard, livereload](guard.md)
+* [常用gems](recommend_gems.md)
+* [编写dsl](dsl.md)
+* [编写gem](write_gem.md)
 * rails篇
     * [rails开发原则](rails-rules.md)
     * [rails思考](rails-thinking.md)
